@@ -35,7 +35,6 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
-# Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
 plugins: # previsously gems
@@ -46,7 +45,7 @@ plugins: # previsously gems
 feed:
   path: atom.xml
 
-# Pagination - https://jekyllrb.com/docs/pagination/
+Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
 paginate_path: /page:num/
 
