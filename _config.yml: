@@ -21,7 +21,7 @@ algolia:
   powered_by: # true (default), false
 
 markdown: kramdown
-theme: Time mechine
+theme: Minimal
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
