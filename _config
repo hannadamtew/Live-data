@@ -1,1 +1,6 @@
-
+title: Minimal theme
+title_image: /assets/img/title-image.png
+logo: /assets/img/logo.png
+description: LIVE DATA .
+show_downloads: true
+google_analytics:
